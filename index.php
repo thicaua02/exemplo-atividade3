@@ -15,7 +15,7 @@
     <title>Exemplo</title>
 </head>
 <body>
-    <h1>Lista de Clientes</h1>
+    <h1>Tabela de Clientes</h1>
     <table border="3">
         <thead>
             <th>Nome</th>
